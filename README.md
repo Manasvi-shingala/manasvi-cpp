@@ -1,2 +1,0 @@
-# manasvi-cpp
-c++
